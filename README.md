@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Kinan</h1>
-<h3 align="center">I am a student passionate about computer science ! (Also Anime and Mangas)</h3>
+<h3 align="center">I am a student passionate about computer science ! (Also Anime and Mangas 😎)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
