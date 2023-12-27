@@ -2,5 +2,5 @@
 <h3 align="center">A 5th year student passionate about computer science !</h3>
 <center>
   <img align="left" alt="csm" width="400" height="200" src="https://i.pinimg.com/originals/d6/fa/1b/d6fa1bc0d7fda22f8b2c930d0f1c3ecf.gif"/>
-  <img align="right" alt="aot" width="400" height="200" src="https://media.tenor.com/Ju4tP5knpXEAAAAd/makima-csm.gif"/>
+  <img align="right" alt="aot" width="400" height="200" src="https://im5.ezgif.com/tmp/ezgif-5-eb693d7b0a.gif"/>
 </center>
